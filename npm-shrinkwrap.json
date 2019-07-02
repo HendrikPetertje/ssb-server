@@ -6193,9 +6193,8 @@
       "integrity": "sha512-Sn19i0OrQYRqC8MEN7NLO8oX+/qE3fZ6VDuw6iUC7S9VIe8oh2A9bWKTGL8GR1vG5+HyxVSRo8FdgcglJDBc3g=="
     },
     "ssb-msgs": {
-      "version": "5.2.0",
-      "resolved": "https://registry.npmjs.org/ssb-msgs/-/ssb-msgs-5.2.0.tgz",
-      "integrity": "sha1-xoHaXNcMV0ySLcpPA8UhU4E1wkM=",
+      "version": "github:ssbc/ssb-msgs#c45231d6a8c91f5fd4a13bf84affe45ed3a146fb",
+      "from": "github:ssbc/ssb-msgs#fix-broken-mentions",
       "requires": {
         "ssb-ref": "^2.0.0"
       }
